@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="987" height="512" viewBox="0 0 987 512">
+<rect width="987" height="512" fill="#fff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#333}.grid{stroke:#d1d1d1;stroke-width:1.2}.tick{font-size:16px}.label{font-size:17px}.title{font-size:23px;font-weight:bold}.value{font-size:16px}</style>
+<text class="title" x="538" y="29" text-anchor="middle">Accuracy Comparison of Three Models</text>
+<rect x="89" y="38" width="898" height="454" fill="#fff" stroke="#bbb"/>
+<g class="grid"><path d="M89 492H987 M89 416H987 M89 340H987 M89 265H987 M89 189H987 M89 113H987 M89 38H987"/><path d="M89 38V492 M246 38V492 M538 38V492 M833 38V492"/></g>
+<g class="tick" text-anchor="end"><text x="79" y="498">97.0</text><text x="79" y="422">97.5</text><text x="79" y="346">98.0</text><text x="79" y="271">98.5</text><text x="79" y="195">99.0</text><text x="79" y="119">99.5</text><text x="79" y="44">100.0</text></g>
+<text class="label" x="538" y="508" text-anchor="middle">Models</text><text class="label" transform="translate(20 265) rotate(-90)" text-anchor="middle">Accuracy (%)</text>
+<rect x="130" y="237" width="233" height="255" fill="#1f77b4"/><rect x="423" y="252" width="233" height="240" fill="#1f77b4"/><rect x="716" y="161" width="233" height="331" fill="#1f77b4"/>
+<g class="value" text-anchor="middle"><text x="246" y="226">98.689%</text><text x="539" y="241">98.589%</text><text x="832" y="150">99.194%</text></g>
+<g class="tick" text-anchor="middle"><text x="246" y="514">Baseline</text><text x="539" y="514">LoRA Rank 8</text><text x="832" y="514">LoRA Rank 16</text></g>
+</svg>

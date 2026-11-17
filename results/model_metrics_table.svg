@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="837" height="163" viewBox="0 0 837 163">
+<rect width="837" height="163" fill="#242629"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#f4f4f4;font-size:15px}.head{font-family:monospace;font-size:14px;font-weight:bold}.row{fill:#494949}.index{font-weight:bold}</style>
+<rect x="36" y="43" width="787" height="37" class="row"/><rect x="36" y="117" width="787" height="37" class="row"/>
+<g class="head" text-anchor="middle"><text x="148" y="30">Model</text><text x="250" y="30">Accuracy (%)</text><text x="361" y="30">Precision (%)</text><text x="474" y="30">Recall (%)</text><text x="584" y="30">F1-Score (%)</text><text x="740" y="30">Training Time (Min)</text></g>
+<g text-anchor="middle"><text class="index" x="47" y="67">0</text><text x="137" y="67">Baseline</text><text x="250" y="67">98.690</text><text x="361" y="67">98.202</text><text x="474" y="67">98.642</text><text x="584" y="67">98.411</text><text x="740" y="67">2.673</text>
+<text class="index" x="47" y="104">1</text><text x="137" y="104">LoRA Rank 8</text><text x="250" y="104">98.589</text><text x="361" y="104">98.735</text><text x="474" y="104">98.082</text><text x="584" y="104">98.379</text><text x="740" y="104">2.611</text>
+<text class="index" x="47" y="141">2</text><text x="137" y="141">LoRA Rank 16</text><text x="250" y="141">99.194</text><text x="361" y="141">99.066</text><text x="474" y="141">98.913</text><text x="584" y="141">98.988</text><text x="740" y="141">2.686</text></g>
+</svg>
